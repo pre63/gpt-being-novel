@@ -1,0 +1,6 @@
+torch
+numpy
+scikit-learn
+networkx
+isort
+git+https://github.com/pre63/black.git
