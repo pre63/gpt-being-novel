@@ -1,4 +1,4 @@
-# GTP Being Creative
+# GTP Being Novel
 In this repo GPT tries to create novel algorithms and writes a pseudo research paper below. Use `make install` and `make test`, enjoy!
 
 ## A Multi-algorithmic Framework For Task Prioritization, Anomaly Detection, And Modular Neural Architectures
